@@ -6,6 +6,8 @@ public class GameSpawner : MonoBehaviour {
     public GameObject[] itemSpawns;
     public GameObject[] item;
 
+	// tavo tevas
+
 	void Start()
     {		
         SpawnItem();
